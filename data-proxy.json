@@ -1,0 +1,20 @@
+{
+  "accounts": [
+  {
+      "acc_info": "your query here",
+      "proxy_info": "your proxy here"
+    },
+  {
+      "acc_info": "your query here",
+      "proxy_info": "your proxy here"
+    },
+  {
+      "acc_info": "your query here",
+      "proxy_info": "your proxy here"
+    },
+  {
+      "acc_info": "your query here",
+      "proxy_info": "your proxy here"
+    }
+  ]
+}

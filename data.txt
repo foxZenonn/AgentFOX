@@ -1,0 +1,2 @@
+Input Your query here{}
+replace all text
